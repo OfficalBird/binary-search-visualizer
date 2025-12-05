@@ -151,3 +151,9 @@ Some of the test cases I used to verify correctness:
 Public Space URL:
 
 https://huggingface.co/spaces/Sheriwn/binary-search-visualizer
+
+## GitHub Repository
+
+Source code:
+
+https://github.com/OfficalBird/binary-search-visualizer
