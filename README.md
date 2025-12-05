@@ -150,4 +150,4 @@ Some of the test cases I used to verify correctness:
 
 Public Space URL:
 
-https://huggingface.co/spaces/Sherwin/binary-search-visualizer
+https://huggingface.co/spaces/Sheriwn/binary-search-visualizer
