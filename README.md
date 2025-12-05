@@ -94,7 +94,7 @@ A **detailed explanation** view that provides either:
 - A full step by step trace (in code blocks), or  
 - A concise summary with final results.
 
-*(Optional: include a simple flowchart image here illustrating the main binary search loop.)*
+![Binary search flowchart](screenshots/binary_search_flowchart.png)
 
 ---
 
